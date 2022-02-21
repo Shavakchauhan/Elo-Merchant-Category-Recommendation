@@ -7,11 +7,11 @@ Imagine you live in a remote part of the city and you dont have time to go buy f
 For deployment purpose the libraries used are
  Markup : 
 * Sklearn
-2.pandas
-3.numpy
-4.pickle
-5.matplotlib
-6.lightgbm
+* pandas
+* numpy
+* pickle
+* matplotlib
+* lightgbm
 
 Checkout my deployed application on amazon ec2 : 
 http://ec2-34-228-194-37.compute-1.amazonaws.com:8080/
