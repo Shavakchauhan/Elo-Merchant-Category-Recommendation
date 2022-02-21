@@ -5,7 +5,8 @@ Imagine you live in a remote part of the city and you dont have time to go buy f
 ## Deployment
 
 For deployment purpose the libraries used are
-1.Sklearn
+ Markup : * Bullet list
+Sklearn
 2.pandas
 3.numpy
 4.pickle
