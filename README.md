@@ -15,6 +15,6 @@ For deployment purpose the libraries used are
 ![Demo gif for deployed application](https://github.com/Shavakchauhan/Elo-Merchant-Category-Recommendation/blob/main/ezgif.com-gif-maker.gif)
 
 
-Checkout my deployed application on amazon ec2 :
+The above gif shows the demo of the my deployed application on amazon ec2.For more details on deployment please visit on below link or check by code in deployment folder:
 
 http://ec2-34-228-194-37.compute-1.amazonaws.com:8080/
