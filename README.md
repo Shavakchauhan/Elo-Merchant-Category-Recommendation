@@ -12,5 +12,6 @@ For deployment purpose the libraries used are
 * matplotlib
 * lightgbm
 
+![Demo gif for deployed application](https://github.com/Shavakchauhan/Elo-Merchant-Category-Recommendation/blob/main/ezgif.com-gif-maker.gif)
 Checkout my deployed application on amazon ec2 : 
 http://ec2-34-228-194-37.compute-1.amazonaws.com:8080/
